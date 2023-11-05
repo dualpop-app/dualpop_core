@@ -6,7 +6,7 @@ class AppModule extends Module {
 
   @override
   final List<ModularRoute> routes = [
-    // ModuleRoute('/splash', module: SplashModule()),
+     ModuleRoute('/splash', module: SplashModule()),
     // ModuleRoute(AuthRoutes.main, module: AuthModule()),
   ];
 }

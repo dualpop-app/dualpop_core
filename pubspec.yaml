@@ -14,6 +14,10 @@ dependencies:
     git:
       url: https://github.com/dualpop-app/dualpop_commons_dependencies
       ref: main
+  dualpop_module_splash:
+    git:
+      url: https://github.com/dualpop-app/dualpop_module_splash
+      ref: main
 
 dev_dependencies:
   flutter_test:
